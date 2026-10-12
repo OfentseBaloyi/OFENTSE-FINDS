@@ -33,10 +33,8 @@ export async function GET(req: NextRequest) {
   const result = await getPlaces(area, selection);
   return NextResponse.json(result, {
     status: result.error ? 503 : 200,
-    headers: {
-      "Cache-Control": result.error ? "no-store" : "public, max-age=300, s-maxage=3600, stale-while-revalidate=86400",
-      // Netlify's CDN ignores query strings by default — without this every town/category shares one cached answer
-      "Netlify-Vary": "query",
-    },
+    // Browser-only caching. Shared CDNs (e.g. Netlify) may ignore the query string and serve one
+    // town's answer for every town; the server already caches upstream data in memory + on disk.
+    headers: { "Cache-Control": result.error ? "no-store" : "private, max-age=300" },
   });
 }
