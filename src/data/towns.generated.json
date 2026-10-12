@@ -1,0 +1,1045 @@
+[
+  {
+    "slug": "mabopane",
+    "name": "Mabopane",
+    "province": "Gauteng",
+    "latitude": -25.508056,
+    "longitude": 28.068056,
+    "kind": "suburb",
+    "radiusKm": 3.5,
+    "osm": {
+      "type": "node",
+      "id": 262708891
+    },
+    "description": "Mabopane is a large residential township located about 22 km north-west of Pretoria, within the City of Tshwane Metropolitan Municipality in Gauteng, South Africa. The 2011 census counted roughly 110,972 residents, predominantly Setswana speakers.",
+    "wikiTitle": "Mabopane",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mabopane",
+    "cover": null
+  },
+  {
+    "slug": "soshanguve",
+    "name": "Soshanguve",
+    "province": "Gauteng",
+    "latitude": -25.526389,
+    "longitude": 28.099444,
+    "kind": "suburb",
+    "radiusKm": 3.5,
+    "osm": {
+      "type": "node",
+      "id": 262716150
+    },
+    "description": "Soshanguve is a township situated about 30 km north of Pretoria and just east of Mabopane, in Gauteng, South Africa. The name Soshanguve is an acronym for Sotho, Shangaan, Nguni and Venda, thus showing the multi-ethnic composition of the population.",
+    "wikiTitle": "Soshanguve",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Soshanguve",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Soshanguve_Crossing.jpg/1920px-Soshanguve_Crossing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 4.0",
+      "credit": "Thulani Godfrey Timba",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soshanguve_Crossing.jpg"
+    }
+  },
+  {
+    "slug": "ga-rankuwa",
+    "name": "Ga-Rankuwa",
+    "province": "Gauteng",
+    "latitude": -25.588446,
+    "longitude": 28.007511,
+    "kind": "town",
+    "radiusKm": 5,
+    "osm": {
+      "type": "node",
+      "id": 262720333
+    },
+    "description": "Ga-Rankuwa is a large settlement located about 37 km north-west of Pretoria. Provincially it is in Gauteng province, but it used to fall in Bophuthatswana during the apartheid years, and under the North West province until the early 2000s.",
+    "wikiTitle": "Ga-Rankuwa",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Ga-Rankuwa",
+    "cover": null
+  },
+  {
+    "slug": "pretoria",
+    "name": "Pretoria",
+    "province": "Gauteng",
+    "latitude": -25.745928,
+    "longitude": 28.18791,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 25503669
+    },
+    "description": "Pretoria is the executive capital of South Africa, serving as the seat of the executive branch of government, and as the host to all foreign embassies to the country.",
+    "wikiTitle": "Pretoria",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pretoria",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Uniegebou.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 3.0",
+      "credit": "Davinci77",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uniegebou.jpg"
+    }
+  },
+  {
+    "slug": "johannesburg",
+    "name": "Johannesburg",
+    "province": "Gauteng",
+    "latitude": -26.205,
+    "longitude": 28.049722,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 261833893
+    },
+    "description": "Johannesburg, colloquially known as Jozi, Joburg, or \"the City of Gold\", is the capital city of the province of Gauteng and the largest city in South Africa. In 2022, the City of Johannesburg Metropolitan Municipality had a population of 4,803,262, and the wider metropolitan area a population of 15,099,422, making it one of the 100 largest urban areas in the world.",
+    "wikiTitle": "Johannesburg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Johannesburg",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Johannesburg_skyline_2017.jpg/1920px-Johannesburg_skyline_2017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY 2.0",
+      "credit": "Mark Hillary",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Johannesburg_skyline_2017.jpg"
+    }
+  },
+  {
+    "slug": "midrand",
+    "name": "Midrand",
+    "province": "Gauteng",
+    "latitude": -25.999262,
+    "longitude": 28.125912,
+    "kind": "town",
+    "radiusKm": 5,
+    "osm": {
+      "type": "node",
+      "id": 262721378
+    },
+    "description": "Midrand is an area in central Gauteng, South Africa. It is situated in-between Centurion and Sandton.",
+    "wikiTitle": "Midrand",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Midrand",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Johhanesburg_Water-Midrand_Tower-002.jpg/1920px-Johhanesburg_Water-Midrand_Tower-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 3.0",
+      "credit": "NJR ZA",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Johhanesburg_Water-Midrand_Tower-002.jpg"
+    }
+  },
+  {
+    "slug": "centurion",
+    "name": "Centurion",
+    "province": "Gauteng",
+    "latitude": -25.836389,
+    "longitude": 28.180278,
+    "kind": "town",
+    "radiusKm": 5,
+    "osm": {
+      "type": "node",
+      "id": 262719636
+    },
+    "description": "Centurion is an area with 236,580 inhabitants in the Gauteng Province of South Africa, between Pretoria and Midrand. Formerly an independent municipality, with its own town council, it has been part of the City of Tshwane Metropolitan Municipality since 2000.",
+    "wikiTitle": "Centurion, South Africa",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Centurion%2C_South_Africa",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/CenturionGautrainStation.jpg/1920px-CenturionGautrainStation.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 3.0",
+      "credit": "George Thomas Stevenson",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:CenturionGautrainStation.jpg"
+    }
+  },
+  {
+    "slug": "rustenburg",
+    "name": "Rustenburg",
+    "province": "North West",
+    "latitude": -25.665655,
+    "longitude": 27.241448,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 30391973
+    },
+    "description": "Rustenburg is a City at the foot of the Magaliesberg mountain range. Rustenburg is the most populous city in North West province, South Africa.",
+    "wikiTitle": "Rustenburg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Rustenburg",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Kruger_Statue_-_Rustenburg.jpeg/1920px-Kruger_Statue_-_Rustenburg.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "Public domain",
+      "credit": "Fritz Joubert",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kruger_Statue_-_Rustenburg.jpeg"
+    }
+  },
+  {
+    "slug": "polokwane",
+    "name": "Polokwane",
+    "province": "Limpopo",
+    "latitude": -23.905833,
+    "longitude": 29.461389,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 304577692
+    },
+    "description": "Polokwane, formerly and sometimes also known as Pietersburg, is the capital city of the Limpopo Province of South Africa. It is the country's largest urban centre north of Gauteng.",
+    "wikiTitle": "Polokwane",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Polokwane",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Polokwane%2C_Limpopo%2C_South_Africa_%282417714241%29.jpg/1920px-Polokwane%2C_Limpopo%2C_South_Africa_%282417714241%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY 2.0",
+      "credit": "South African Tourism from South Africa",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Polokwane,_Limpopo,_South_Africa_(2417714241).jpg"
+    }
+  },
+  {
+    "slug": "durban",
+    "name": "Durban",
+    "province": "KwaZulu-Natal",
+    "latitude": -29.861815,
+    "longitude": 31.009909,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 27564996
+    },
+    "description": "Durban is the third-most populous city in South Africa, after Johannesburg and Cape Town, and the largest city in the province of KwaZulu-Natal. Situated on the east coast of South Africa, on the Natal Bay of the Indian Ocean, Durban is the busiest port city in sub-Saharan Africa and was formerly named Port Natal.",
+    "wikiTitle": "Durban",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Durban",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg/1920px-Durban_from_the_Balcony_%28Dennis_Sylvester_Hurd%29_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY 2.0",
+      "credit": "Dennis Sylvester Hurd",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Durban_from_the_Balcony_(Dennis_Sylvester_Hurd)_1.jpg"
+    }
+  },
+  {
+    "slug": "cape-town",
+    "name": "Cape Town",
+    "province": "Western Cape",
+    "latitude": -33.92883,
+    "longitude": 18.41722,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 32675806
+    },
+    "description": "Cape Town is the legislative capital of South Africa. It is the country's oldest city and the seat of the Parliament of South Africa.",
+    "wikiTitle": "Cape Town",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Cape_Town",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Camps_bay_%2853460319478%29_%28cropped%29.jpg/1920px-Camps_bay_%2853460319478%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 2.0",
+      "credit": "Der Berzerker from Washington, DC, USA",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Camps_bay_(53460319478)_(cropped).jpg"
+    }
+  },
+  {
+    "slug": "akasia",
+    "name": "Akasia",
+    "province": "Gauteng",
+    "latitude": -25.655556,
+    "longitude": 28.096944,
+    "kind": "town",
+    "radiusKm": 5,
+    "osm": {
+      "type": "node",
+      "id": 262719046
+    },
+    "description": null,
+    "wikiTitle": null,
+    "wikiUrl": null,
+    "cover": null
+  },
+  {
+    "slug": "hammanskraal",
+    "name": "Hammanskraal",
+    "province": "Gauteng",
+    "latitude": -25.408333,
+    "longitude": 28.287222,
+    "kind": "suburb",
+    "radiusKm": 3.5,
+    "osm": {
+      "type": "node",
+      "id": 262706951
+    },
+    "description": "Hammanskraal is a trans-provincial region anchored in northern Gauteng province, South Africa. The region consists of multiple residential, industrial, and commercial areas in a decentralized settlement pattern.",
+    "wikiTitle": "Hammanskraal",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hammanskraal",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Hammanskraal%2C_besigheidsdistrik.jpg/1920px-Hammanskraal%2C_besigheidsdistrik.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 3.0",
+      "credit": "JMK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hammanskraal,_besigheidsdistrik.jpg"
+    }
+  },
+  {
+    "slug": "winterveldt",
+    "name": "Winterveldt",
+    "province": "Gauteng",
+    "latitude": -25.488295,
+    "longitude": 28.073111,
+    "kind": "suburb",
+    "radiusKm": 3.5,
+    "osm": {
+      "type": "way",
+      "id": 698860179
+    },
+    "description": null,
+    "wikiTitle": null,
+    "wikiUrl": null,
+    "cover": null
+  },
+  {
+    "slug": "mamelodi",
+    "name": "Mamelodi",
+    "province": "Gauteng",
+    "latitude": -25.715805,
+    "longitude": 28.38083,
+    "kind": "town",
+    "radiusKm": 5,
+    "osm": {
+      "type": "node",
+      "id": 7477297437
+    },
+    "description": "Mamelodi is a township northeast of Pretoria, Gauteng, South Africa. A part of the City of Tshwane Metropolitan Municipality, it was set up by the then apartheid government in 1953.",
+    "wikiTitle": "Mamelodi",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mamelodi",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Mamelodi.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 3.0",
+      "credit": null,
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mamelodi.JPG"
+    }
+  },
+  {
+    "slug": "atteridgeville",
+    "name": "Atteridgeville",
+    "province": "Gauteng",
+    "latitude": -25.771389,
+    "longitude": 28.073611,
+    "kind": "suburb",
+    "radiusKm": 3.5,
+    "osm": {
+      "type": "node",
+      "id": 262694907
+    },
+    "description": "Atteridgeville, also known as Phelindaba, is a township located to the west of Pretoria, South Africa. The township was established in 1939 and is named after Mrs MP Atteridge (1900-1979), chairwoman of the Committee for Non-European Affairs on the Pretoria City Council at the time.",
+    "wikiTitle": "Atteridgeville",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Atteridgeville",
+    "cover": null
+  },
+  {
+    "slug": "hatfield",
+    "name": "Hatfield",
+    "province": "Gauteng",
+    "latitude": -25.74764,
+    "longitude": 28.237873,
+    "kind": "suburb",
+    "radiusKm": 3.5,
+    "osm": {
+      "type": "node",
+      "id": 6983499376
+    },
+    "description": "Hatfield is a suburb in Pretoria, South Africa with a high density of students as well as student accommodation due to its close proximity to the University of Pretoria's main campus.",
+    "wikiTitle": "Hatfield, Pretoria",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hatfield%2C_Pretoria",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Die_skip_University_of_pretoria.JPG/1920px-Die_skip_University_of_pretoria.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 3.0",
+      "credit": "Mike-Prins",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Die_skip_University_of_pretoria.JPG"
+    }
+  },
+  {
+    "slug": "soweto",
+    "name": "Soweto",
+    "province": "Gauteng",
+    "latitude": -26.222778,
+    "longitude": 27.89,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 27565050
+    },
+    "description": "Soweto is a township of the City of Johannesburg Metropolitan Municipality in Gauteng, South Africa and one of the suburbs of Johannesburg, bordering the city's mining belt in the south. Its name is an English syllabic abbreviation for South Western Townships.",
+    "wikiTitle": "Soweto",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Soweto",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Soweto-002.jpg/1920px-Soweto-002.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 2.0",
+      "credit": "Michael Denne from Hobart, Australia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soweto-002.jpg"
+    }
+  },
+  {
+    "slug": "sandton",
+    "name": "Sandton",
+    "province": "Gauteng",
+    "latitude": -26.068241,
+    "longitude": 28.047984,
+    "kind": "suburb",
+    "radiusKm": 3.5,
+    "osm": {
+      "type": "node",
+      "id": 262722132
+    },
+    "description": null,
+    "wikiTitle": null,
+    "wikiUrl": null,
+    "cover": null
+  },
+  {
+    "slug": "randburg",
+    "name": "Randburg",
+    "province": "Gauteng",
+    "latitude": -26.091585,
+    "longitude": 28.002028,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 12173793246
+    },
+    "description": "Randburg is an area located in the Gauteng province of South Africa. Formerly a separate municipality, its administration devolved to the newly created City of Johannesburg Metropolitan Municipality, along with neighbouring Sandton and Roodepoort, in the late 1990s.",
+    "wikiTitle": "Randburg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Randburg",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/d/d5/MotoPops_-_Beverley_Gardens%2C_Randburg%2C_South_Africa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 3.0",
+      "credit": "MotoPops",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:MotoPops_-_Beverley_Gardens,_Randburg,_South_Africa.jpg"
+    }
+  },
+  {
+    "slug": "roodepoort",
+    "name": "Roodepoort",
+    "province": "Gauteng",
+    "latitude": -26.156663,
+    "longitude": 27.885565,
+    "kind": "suburb",
+    "radiusKm": 3.5,
+    "osm": {
+      "type": "way",
+      "id": 692749598
+    },
+    "description": "Roodepoort is a city in the Gauteng province of South Africa. Formerly an independent municipality, Roodepoort became part of the Johannesburg municipality in the late 1990s, along with Randburg and Sandton.",
+    "wikiTitle": "Roodepoort",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Roodepoort",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Bastion_Ho%C3%ABrskool%2C_Roodepoort.jpg/1920px-Bastion_Ho%C3%ABrskool%2C_Roodepoort.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 3.0",
+      "credit": "JMK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bastion_Ho%C3%ABrskool,_Roodepoort.jpg"
+    }
+  },
+  {
+    "slug": "tembisa",
+    "name": "Tembisa",
+    "province": "Gauteng",
+    "latitude": -26.009715,
+    "longitude": 28.231461,
+    "kind": "suburb",
+    "radiusKm": 3.5,
+    "osm": {
+      "type": "node",
+      "id": 9168944945
+    },
+    "description": "Thembisa, formerly Tembisa, is a large township situated to the north of Kempton Park on the East Rand, Gauteng, South Africa. It was established in 1957 when black people were resettled from Alexandra and other areas in Edenvale, Kempton Park, Midrand and Germiston.",
+    "wikiTitle": "Thembisa",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Thembisa",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Lazarus_Mawela_Station-Tembisa.png/1920px-Lazarus_Mawela_Station-Tembisa.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 4.0",
+      "credit": "Thuvack",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lazarus_Mawela_Station-Tembisa.png"
+    }
+  },
+  {
+    "slug": "alexandra",
+    "name": "Alexandra",
+    "province": "Gauteng",
+    "latitude": -26.104444,
+    "longitude": 28.098889,
+    "kind": "suburb",
+    "radiusKm": 3.5,
+    "osm": {
+      "type": "node",
+      "id": 262719072
+    },
+    "description": "Alexandra, informally abbreviated to Alex, is a township in the Gauteng province of South Africa. It forms part of the City of Johannesburg Metropolitan Municipality and is located next to the wealthy suburb of Sandton.",
+    "wikiTitle": "Alexandra, South Africa",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Alexandra%2C_South_Africa",
+    "cover": null
+  },
+  {
+    "slug": "diepsloot",
+    "name": "Diepsloot",
+    "province": "Gauteng",
+    "latitude": -25.93095,
+    "longitude": 28.01059,
+    "kind": "suburb",
+    "radiusKm": 3.5,
+    "osm": {
+      "type": "way",
+      "id": 29253932
+    },
+    "description": "Diepsloot, Afrikaans for \"deep ditch\", is a densely populated township in Gauteng, South Africa. It is located in the Region A of the City of Johannesburg Metropolitan Municipality.",
+    "wikiTitle": "Diepsloot",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Diepsloot",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Wassup_activists_say_the_government_should_do_more_to_maintain_the_community%27s_environment_in_Diepsloot%2C_South_Africa%2C_December_2012._%28VOA_S._Honorine%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "Public domain",
+      "credit": "VOA S. Honorine",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wassup_activists_say_the_government_should_do_more_to_maintain_the_community%27s_environment_in_Diepsloot,_South_Africa,_December_2012._(VOA_S._Honorine).jpg"
+    }
+  },
+  {
+    "slug": "kempton-park",
+    "name": "Kempton Park",
+    "province": "Gauteng",
+    "latitude": -26.096437,
+    "longitude": 28.233632,
+    "kind": "town",
+    "radiusKm": 5,
+    "osm": {
+      "type": "node",
+      "id": 262720778
+    },
+    "description": "Kempton Park is a city in the East Rand region of Gauteng province, South Africa. It is part of the City of Ekurhuleni Metropolitan Municipality.",
+    "wikiTitle": "Kempton Park, Gauteng",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Kempton_Park%2C_Gauteng",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Kempton_Park_CBD.jpg/1920px-Kempton_Park_CBD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 3.0",
+      "credit": "PretoriaTravel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kempton_Park_CBD.jpg"
+    }
+  },
+  {
+    "slug": "benoni",
+    "name": "Benoni",
+    "province": "Gauteng",
+    "latitude": -26.193036,
+    "longitude": 28.308238,
+    "kind": "town",
+    "radiusKm": 5,
+    "osm": {
+      "type": "node",
+      "id": 262719247
+    },
+    "description": "Benoni is a town on the East Rand, Gauteng, South Africa, some 26 kilometres (16 mi) east of Johannesburg, within the City of Ekurhuleni municipality.",
+    "wikiTitle": "Benoni, South Africa",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Benoni%2C_South_Africa",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Benoni_CBD.jpg/1920px-Benoni_CBD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 3.0",
+      "credit": "PretoriaTravel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Benoni_CBD.jpg"
+    }
+  },
+  {
+    "slug": "boksburg",
+    "name": "Boksburg",
+    "province": "Gauteng",
+    "latitude": -26.212464,
+    "longitude": 28.261747,
+    "kind": "town",
+    "radiusKm": 5,
+    "osm": {
+      "type": "node",
+      "id": 26458742
+    },
+    "description": "Boksburg is a city on the East Rand of Gauteng province of South Africa. Gold was discovered in Boksburg in 1887.",
+    "wikiTitle": "Boksburg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Boksburg",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Into_Boksburg_and_ERM.jpg/1920px-Into_Boksburg_and_ERM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "Public domain",
+      "credit": "Part Time Security",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Into_Boksburg_and_ERM.jpg"
+    }
+  },
+  {
+    "slug": "germiston",
+    "name": "Germiston",
+    "province": "Gauteng",
+    "latitude": -26.229444,
+    "longitude": 28.180556,
+    "kind": "town",
+    "radiusKm": 5,
+    "osm": {
+      "type": "node",
+      "id": 26453407
+    },
+    "description": "Germiston, also known as kwaDukathole, is a city in the East Rand region of Gauteng, South Africa, administratively forming part of the City of Ekurhuleni Metropolitan Municipality since the latter's establishment in 2000. It functions as the municipal seat of Ekurhuleni, hosting the municipal council and administration.",
+    "wikiTitle": "Germiston",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Germiston",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Germiston_CBD.jpg/1920px-Germiston_CBD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 3.0",
+      "credit": "PretoriaTravel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Germiston_CBD.jpg"
+    }
+  },
+  {
+    "slug": "krugersdorp",
+    "name": "Krugersdorp",
+    "province": "Gauteng",
+    "latitude": -26.095556,
+    "longitude": 27.775556,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 60034262
+    },
+    "description": "Krugersdorp is a mining city in the West Rand, Gauteng Province, South Africa founded in 1887 by Marthinus Pretorius and Abner Cohen. Following the discovery of gold on the Witwatersrand, a need arose for a major town in the west of the reef.",
+    "wikiTitle": "Krugersdorp",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Krugersdorp",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Featherbrooke-landgoed%2C_Krugersdorp.jpg/1920px-Featherbrooke-landgoed%2C_Krugersdorp.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 3.0",
+      "credit": "JMK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Featherbrooke-landgoed,_Krugersdorp.jpg"
+    }
+  },
+  {
+    "slug": "vereeniging",
+    "name": "Vereeniging",
+    "province": "Gauteng",
+    "latitude": -26.674722,
+    "longitude": 27.926111,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 35960525
+    },
+    "description": "Vereeniging is a city located in the south of Gauteng province, South Africa, situated where the Klip River empties into the northern loop of the Vaal River. It is also one of the constituent parts of the Vaal Triangle region and was formerly situated in the Transvaal province.",
+    "wikiTitle": "Vereeniging",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Vereeniging",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Dutch_Reformed_Church_Vereeniging-017.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 3.0",
+      "credit": "Leo za1",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dutch_Reformed_Church_Vereeniging-017.jpg"
+    }
+  },
+  {
+    "slug": "brits",
+    "name": "Brits",
+    "province": "North West",
+    "latitude": -25.629722,
+    "longitude": 27.784167,
+    "kind": "town",
+    "radiusKm": 5,
+    "osm": {
+      "type": "node",
+      "id": 25779128
+    },
+    "description": "Brits is a town in the North West Province of South Africa. It is situated in a fertile citrus, vegetable and grain-producing area that is irrigated by the waters of the Hartbeespoort Dam.",
+    "wikiTitle": "Brits, South Africa",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Brits%2C_South_Africa",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Brits%2C_Noordwes%2C_uit_suidweste.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 3.0",
+      "credit": "JMK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Brits,_Noordwes,_uit_suidweste.jpg"
+    }
+  },
+  {
+    "slug": "hartbeespoort",
+    "name": "Hartbeespoort",
+    "province": "North West",
+    "latitude": -25.725617,
+    "longitude": 27.848319,
+    "kind": "suburb",
+    "radiusKm": 3.5,
+    "osm": {
+      "type": "way",
+      "id": 142530686
+    },
+    "description": "Hartbeespoort, informally known as \"Harties\", is a small resort town in the North West Province of South Africa, situated on slopes of the Magaliesberg mountain and the banks of the Hartbeespoort Dam. The name of the town means \"gateway of the hartbees\" in Afrikaans.",
+    "wikiTitle": "Hartbeespoort",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Hartbeespoort",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hartbeespoort_Dam_Wall%2C_North_West%2C_South_Africa_%2820329599590%29.jpg/1920px-Hartbeespoort_Dam_Wall%2C_North_West%2C_South_Africa_%2820329599590%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY 2.0",
+      "credit": "South African Tourism from South Africa",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hartbeespoort_Dam_Wall,_North_West,_South_Africa_(20329599590).jpg"
+    }
+  },
+  {
+    "slug": "mahikeng",
+    "name": "Mahikeng",
+    "province": "North West",
+    "latitude": -25.863611,
+    "longitude": 25.658611,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 59953738
+    },
+    "description": "Mafikeng, officially known as Mahikeng and alternatively known as Mafeking, is the capital city of the North West province of South Africa. It was also the capital of the Bechuanaland Protectorate until 1965, despite being located outside the protectorate.",
+    "wikiTitle": "Mafikeng",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mafikeng",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Mafikeng%2C_North_West%2C_South_Africa_%2820506154516%29.jpg/1920px-Mafikeng%2C_North_West%2C_South_Africa_%2820506154516%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY 2.0",
+      "credit": "South African Tourism from South Africa",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mafikeng,_North_West,_South_Africa_(20506154516).jpg"
+    }
+  },
+  {
+    "slug": "potchefstroom",
+    "name": "Potchefstroom",
+    "province": "North West",
+    "latitude": -26.707778,
+    "longitude": 27.095833,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 262721949
+    },
+    "description": "Potchefstroom, known colloquially as Potch, is an academic city in the North West Province of South Africa. It hosts the Potchefstroom Campus of North-West University.",
+    "wikiTitle": "Potchefstroom",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Potchefstroom",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Town_Hall%2C_Potgieter_Street%2C_Potchefstroom-001.jpg/1920px-Town_Hall%2C_Potgieter_Street%2C_Potchefstroom-001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 3.0",
+      "credit": "Leo za1",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Town_Hall,_Potgieter_Street,_Potchefstroom-001.jpg"
+    }
+  },
+  {
+    "slug": "klerksdorp",
+    "name": "Klerksdorp",
+    "province": "North West",
+    "latitude": -26.862538,
+    "longitude": 26.665681,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 59965613
+    },
+    "description": "Klerksdorp is located in the North West Province, South Africa. Klerksdorp is located 165 km (103 mi) southeast of Mahikeng, the provincial capital.",
+    "wikiTitle": "Klerksdorp",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Klerksdorp",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Municipal_Office_of_the_City_of_Matlosana_Local_Municipality.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 3.0",
+      "credit": "WalVlekkie",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Municipal_Office_of_the_City_of_Matlosana_Local_Municipality.jpg"
+    }
+  },
+  {
+    "slug": "thohoyandou",
+    "name": "Thohoyandou",
+    "province": "Limpopo",
+    "latitude": -22.967643,
+    "longitude": 30.459658,
+    "kind": "town",
+    "radiusKm": 5,
+    "osm": {
+      "type": "node",
+      "id": 4564369375
+    },
+    "description": "Thohoyandou is a town in the Limpopo Province of South Africa. It is the administrative centre of Vhembe District Municipality and Thulamela Local Municipality.",
+    "wikiTitle": "Thohoyandou",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Thohoyandou",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Thohoyandou_Venda_Plaza.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 3.0",
+      "credit": "Ndivhuwo Rannenyeni",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Thohoyandou_Venda_Plaza.jpg"
+    }
+  },
+  {
+    "slug": "tzaneen",
+    "name": "Tzaneen",
+    "province": "Limpopo",
+    "latitude": -23.831944,
+    "longitude": 30.161111,
+    "kind": "town",
+    "radiusKm": 5,
+    "osm": {
+      "type": "node",
+      "id": 124504036
+    },
+    "description": "Tzaneen is a town in the Mopani district of Limpopo Province in South Africa. Situated in a high rainfall very fertile area with tropical and subtropical agriculture with an area of 20,000 square kilometres (7,700 sq mi).",
+    "wikiTitle": "Tzaneen",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Tzaneen",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Tzaneen_tea_plants.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 3.0",
+      "credit": "Rob Hooft",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tzaneen_tea_plants.jpg"
+    }
+  },
+  {
+    "slug": "mbombela",
+    "name": "Mbombela",
+    "province": "Mpumalanga",
+    "latitude": -25.472909,
+    "longitude": 30.977272,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 30211883
+    },
+    "description": "Mbombela, formerly Nelspruit, is a city in northeastern South Africa. It is the capital of the Mpumalanga province.",
+    "wikiTitle": "Mbombela",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mbombela",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/NelspruitPanorama.JPG/1920px-NelspruitPanorama.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY 3.0",
+      "credit": "Wernermeiringvdm at English Wikipedia",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:NelspruitPanorama.JPG"
+    }
+  },
+  {
+    "slug": "emalahleni",
+    "name": "eMalahleni",
+    "province": "Mpumalanga",
+    "latitude": -25.876241,
+    "longitude": 29.209996,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 30324159
+    },
+    "description": "Witbank, officially eMalahleni, is a city located on the Highveld of Mpumalanga, South Africa, within the Emalahleni Local Municipality. The name Witbank is Afrikaans for \"white ridge\", and is named after a white sandstone outcrop where wagon transport drivers rested.",
+    "wikiTitle": "Witbank",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Witbank",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/South_Africa-Mpumalanga-Witbank01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 3.0",
+      "credit": "Gerhard Roux &lt;gerhard@sundown.homeip.net&gt;",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:South_Africa-Mpumalanga-Witbank01.jpg"
+    }
+  },
+  {
+    "slug": "pietermaritzburg",
+    "name": "Pietermaritzburg",
+    "province": "KwaZulu-Natal",
+    "latitude": -29.6,
+    "longitude": 30.378889,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 30211844
+    },
+    "description": "Pietermaritzburg is the capital and second-largest city in the province of KwaZulu-Natal, South Africa after Durban. It was named in 1838 and is currently governed by the Msunduzi Local Municipality.",
+    "wikiTitle": "Pietermaritzburg",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Pietermaritzburg",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/00000-St_Peters_Church2-Pietermaritzburg-s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 3.0",
+      "credit": "Janek Szymanowski",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:00000-St_Peters_Church2-Pietermaritzburg-s.jpg"
+    }
+  },
+  {
+    "slug": "umhlanga",
+    "name": "Umhlanga",
+    "province": "KwaZulu-Natal",
+    "latitude": -29.73,
+    "longitude": 31.082778,
+    "kind": "town",
+    "radiusKm": 5,
+    "osm": {
+      "type": "node",
+      "id": 262722330
+    },
+    "description": "uMhlanga, alternatively rendered Umhlanga, is a residential, commercial and resort town north of Durban on the coast of KwaZulu-Natal, South Africa. It is part of the eThekwini Metropolitan Municipality, which was created in 2000 and includes the greater Durban area.",
+    "wikiTitle": "UMhlanga, KwaZulu-Natal",
+    "wikiUrl": "https://en.wikipedia.org/wiki/UMhlanga%2C_KwaZulu-Natal",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/UmhlangaKZN-pier.jpg/1920px-UmhlangaKZN-pier.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 3.0",
+      "credit": "Andres de Wet",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:UmhlangaKZN-pier.jpg"
+    }
+  },
+  {
+    "slug": "stellenbosch",
+    "name": "Stellenbosch",
+    "province": "Western Cape",
+    "latitude": -33.934444,
+    "longitude": 18.869167,
+    "kind": "town",
+    "radiusKm": 5,
+    "osm": {
+      "type": "relation",
+      "id": 20601962
+    },
+    "description": "Stellenbosch is a town in the Western Cape province of South Africa, situated about 50 kilometres east of Cape Town, along the banks of the Eerste River at the foot of the Stellenbosch Mountain. The town became known as the City of Oaks or Eikestad in Afrikaans and Dutch due to the large number of oak trees that were planted by its founder, Simon van der Stel, to grace the streets and homesteads.",
+    "wikiTitle": "Stellenbosch",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Stellenbosch",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Stellenbosch_aerial_photo_from_north-west_2024-01.jpg/1920px-Stellenbosch_aerial_photo_from_north-west_2024-01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC0",
+      "credit": "CJJ2501",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Stellenbosch_aerial_photo_from_north-west_2024-01.jpg"
+    }
+  },
+  {
+    "slug": "khayelitsha",
+    "name": "Khayelitsha",
+    "province": "Western Cape",
+    "latitude": -34.040591,
+    "longitude": 18.66742,
+    "kind": "town",
+    "radiusKm": 5,
+    "osm": {
+      "type": "node",
+      "id": 262720812
+    },
+    "description": "Khayelitsha is a township in Western Cape, South Africa, on the Cape Flats in the City of Cape Town Metropolitan Municipality. The name is Xhosa for New Home.",
+    "wikiTitle": "Khayelitsha",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Khayelitsha",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Khayelitsha_Lookout-Hill_Ilitha-Park.jpg/1920px-Khayelitsha_Lookout-Hill_Ilitha-Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 3.0",
+      "credit": "FreddieA",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Khayelitsha_Lookout-Hill_Ilitha-Park.jpg"
+    }
+  },
+  {
+    "slug": "george",
+    "name": "George",
+    "province": "Western Cape",
+    "latitude": -33.959721,
+    "longitude": 22.458715,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "relation",
+      "id": 79797
+    },
+    "description": "George is a city in the Western Cape province of South Africa. The city is a popular holiday and conference centre, as well as the administrative and commercial hub and the seat of the Garden Route District Municipality.",
+    "wikiTitle": "George, South Africa",
+    "wikiUrl": "https://en.wikipedia.org/wiki/George%2C_South_Africa",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/St._Marks_Anglican_Cathedral.jpg/1920px-St._Marks_Anglican_Cathedral.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY-SA 4.0",
+      "credit": "Lugerda",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:St._Marks_Anglican_Cathedral.jpg"
+    }
+  },
+  {
+    "slug": "gqeberha",
+    "name": "Gqeberha",
+    "province": "Eastern Cape",
+    "latitude": -33.96186,
+    "longitude": 25.618673,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 25470100
+    },
+    "description": "Gqeberha, also known as Port Elizabeth and colloquially P.E.",
+    "wikiTitle": "Gqeberha",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Gqeberha",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/City_Hall_Port_Elizabeth-003.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 3.0",
+      "credit": "Leo za1",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:City_Hall_Port_Elizabeth-003.jpg"
+    }
+  },
+  {
+    "slug": "east-london",
+    "name": "East London",
+    "province": "Eastern Cape",
+    "latitude": -33.01916,
+    "longitude": 27.899857,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 30211383
+    },
+    "description": "East London, officially KuGompo City since February 2026, is a city in the Buffalo City Metropolitan Municipality of the Eastern Cape Province, on the southeastern coast of South Africa. The city lies on the Indian Ocean coast, largely between the Buffalo River and the Nahoon River, and hosts the country's only river port.",
+    "wikiTitle": "East London, South Africa",
+    "wikiUrl": "https://en.wikipedia.org/wiki/East_London%2C_South_Africa",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/East_London%2C_Eastern_Cape%2C_South_Africa_%2820323340150%29.jpg/1920px-East_London%2C_Eastern_Cape%2C_South_Africa_%2820323340150%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY 2.0",
+      "credit": "South African Tourism from South Africa",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:East_London,_Eastern_Cape,_South_Africa_(20323340150).jpg"
+    }
+  },
+  {
+    "slug": "mthatha",
+    "name": "Mthatha",
+    "province": "Eastern Cape",
+    "latitude": -31.589592,
+    "longitude": 28.787774,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 262722333
+    },
+    "description": "Mthatha, alternatively rendered Umtata, is the main city of the King Sabata Dalindyebo Local Municipality in Eastern Cape province of South Africa and the capital of OR Tambo District Municipality. The city has an airport, previously known as the K.",
+    "wikiTitle": "Mthatha",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Mthatha",
+    "cover": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Umtata.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+      "license": "CC BY-SA 4.0",
+      "credit": "Uyingcwele",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Umtata.jpg"
+    }
+  },
+  {
+    "slug": "bloemfontein",
+    "name": "Bloemfontein",
+    "province": "Free State",
+    "latitude": -29.116395,
+    "longitude": 26.215496,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "node",
+      "id": 26938845
+    },
+    "description": "Bloemfontein, also known as Bloem, is the capital and the largest city of the Free State province in South Africa. It is often, and has been traditionally, referred to as the country's \"judicial capital\", as it hosts the Supreme Court of Appeal, alongside the legislative capital Cape Town and executive capital Pretoria.",
+    "wikiTitle": "Bloemfontein",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Bloemfontein",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bloemfontein%2C_Free_State%2C_South_Africa_%2820349855518%29.jpg/1920px-Bloemfontein%2C_Free_State%2C_South_Africa_%2820349855518%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY 2.0",
+      "credit": "South African Tourism from South Africa",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bloemfontein,_Free_State,_South_Africa_(20349855518).jpg"
+    }
+  },
+  {
+    "slug": "kimberley",
+    "name": "Kimberley",
+    "province": "Northern Cape",
+    "latitude": -28.738301,
+    "longitude": 24.764225,
+    "kind": "city",
+    "radiusKm": 9,
+    "osm": {
+      "type": "way",
+      "id": 31274983
+    },
+    "description": "Kimberley  is the capital and largest city of the Northern Cape province of South Africa. It is located about 110 km (68 mi) east of the confluence of the Vaal and Orange Rivers.",
+    "wikiTitle": "Kimberley, South Africa",
+    "wikiUrl": "https://en.wikipedia.org/wiki/Kimberley%2C_South_Africa",
+    "cover": {
+      "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Big_Hole%2C_Kimberley%2C_Northern_Cape%2C_South_Africa_%2820512571296%29.jpg/1920px-Big_Hole%2C_Kimberley%2C_Northern_Cape%2C_South_Africa_%2820512571296%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "license": "CC BY 2.0",
+      "credit": "South African Tourism from South Africa",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Big_Hole,_Kimberley,_Northern_Cape,_South_Africa_(20512571296).jpg"
+    }
+  }
+]

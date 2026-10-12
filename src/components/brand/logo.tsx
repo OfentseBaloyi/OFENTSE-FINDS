@@ -1,0 +1,51 @@
+import Image from "next/image";
+import { cn } from "@/lib/utils";
+
+/**
+ * Compact OFENTSE-FINDS mark: the location pin with the orange-and-teal "F" from the
+ * primary logo, redrawn flat so it stays crisp at nav and favicon sizes on light surfaces.
+ */
+export function LogoMark({ className, title }: { className?: string; title?: string }) {
+  return (
+    <svg viewBox="0 0 64 64" className={cn("shrink-0", className)} role={title ? "img" : undefined} aria-hidden={title ? undefined : true} aria-label={title}>
+      <path d="M32 3C19.3 3 9 13.1 9 25.6 9 42.2 32 61 32 61s23-18.8 23-35.4C55 13.1 44.7 3 32 3Z" fill="#0F6560" />
+      <path d="M32 3C19.3 3 9 13.1 9 25.6c0 3 .7 6.1 1.9 9.2C14.6 21 24 11.5 36.6 9.8 44 8.8 50.4 11.6 53.6 16.9 50 8.8 41.7 3 32 3Z" fill="#12A37A" />
+      <circle cx="32" cy="25.5" r="14" fill="#FFFDF8" />
+      <path d="M26.5 17.2c0-1.2 1-2.2 2.2-2.2h11.6c1.6 0 2.4 1.9 1.3 3.1l-1.9 2c-.4.4-1 .7-1.6.7h-5.2v3.1h4.2c1.6 0 2.4 1.9 1.3 3.1l-1.7 1.8c-.4.4-1 .7-1.6.7h-2.2v4.3c0 1-.6 1.9-1.5 2.2l-2.1.8c-1.4.5-2.8-.5-2.8-2V17.2Z" fill="#EF8A17" />
+      <path d="M31.1 27.5h2.2c.6 0 1.2-.3 1.6-.7l1.7-1.8c1.1-1.2.3-3.1-1.3-3.1h-4.2v5.6Z" fill="#0F6560" />
+    </svg>
+  );
+}
+
+export function Wordmark({ className, inverted = false }: { className?: string; inverted?: boolean }) {
+  return (
+    <span className={cn("font-display font-extrabold tracking-[-0.03em] leading-none", className)}>
+      <span className={inverted ? "text-white" : "text-ink"}>OFENTSE</span>
+      <span className={inverted ? "text-mint" : "text-emerald"}>-FINDS</span>
+    </span>
+  );
+}
+
+export function LogoLockup({ className, inverted = false, compactOnMobile = false }: { className?: string; inverted?: boolean; compactOnMobile?: boolean }) {
+  return (
+    <span className={cn("inline-flex items-center gap-2", className)}>
+      <LogoMark className="h-8 w-8" />
+      <Wordmark inverted={inverted} className={cn("text-[1.15rem]", compactOnMobile && "hidden min-[380px]:inline")} />
+    </span>
+  );
+}
+
+/** The original full-colour logo artwork. It sits on black, so only use it on dark surfaces. */
+export function LogoArtwork({ className, priority = false }: { className?: string; priority?: boolean }) {
+  return (
+    <Image
+      src="/brand/ofentse-finds-logo.png"
+      alt="OFENTSE-FINDS — Discover more. Right around you."
+      width={1536}
+      height={1024}
+      priority={priority}
+      sizes="(min-width: 768px) 420px, 80vw"
+      className={cn("h-auto mix-blend-screen select-none", className)}
+    />
+  );
+}
